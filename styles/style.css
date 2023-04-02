@@ -133,7 +133,7 @@ body{
 
     .cabecalho__menu{
         justify-content: center;
-        margin: 10%;
+        margin: 0px 10px 0px 10px;
     }
 
     .apresentacao {
