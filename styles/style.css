@@ -24,12 +24,12 @@ body{
 }
 
 .cabecalho {
-    padding: 2% 0% 0% 15%;
+    padding: 2% 15% 0% 15%;
 }
 
 .cabecalho__menu {
     display: flex;
-    gap: 80px;
+    gap: 60px;
 }
 
 .cabecalho__menu__link{
@@ -133,7 +133,7 @@ body{
 
     .cabecalho__menu{
         justify-content: center;
-        margin: 0px 10px 0px 10px;
+        
     }
 
     .apresentacao {
