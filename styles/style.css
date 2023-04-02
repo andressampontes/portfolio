@@ -126,7 +126,7 @@ body{
     background-color: var(--cor-terciaria);
 }
 
-@media (min-width: 400px) and (max-width: 1200px) {
+@media (max-width: 1200px) {
     .cabecalho{
         padding: 15%;
         margin: 10%;
