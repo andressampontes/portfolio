@@ -126,9 +126,10 @@ body{
     background-color: var(--cor-terciaria);
 }
 
-@media (max-width: 1200px) {
+@media (min-width: 600px) and (max-width: 1200px) {
     .cabecalho{
-        padding: 10% 10% 10% 10% ;
+        padding: 15%;
+        margin: 10%;
     }
 
     .cabecalho__menu{
